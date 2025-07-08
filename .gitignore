@@ -1,0 +1,36 @@
+
+# byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# environment
+.env
+env/
+venv/
+*.env
+
+# OS files
+.DS_Store
+
+# python virtual environment files
+*.egg-info/
+.eggs/
+.Python
+*.sqlite3
+
+
+.vscode/
+
+# logs and debug
+logs/*
+*.log
+
+# chroma vector database
+chroma_db/*
+
+# data files
+data/*

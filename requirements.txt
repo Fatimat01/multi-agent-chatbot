@@ -1,0 +1,16 @@
+langchain
+langgraph
+langchain-core
+langchain-chroma
+langchain-community
+langchain-openai
+openai
+chromadb
+pandas
+streamlit
+tiktoken
+python-dotenv
+ipykernel
+serpapi
+langchain-graph
+google-search-results
